@@ -28,15 +28,13 @@ Follow these steps to install and run the app locally:
 
 1. **Clone the Repository:**
 
-   ```bash
+   
    git clone https://github.com/yourusername/currency-converter-react.git
    cd currency-converter-react
 Install Dependencies:
 
 Make sure you have Node.js installed, then run:
 
-bash
-Copy code
 npm install
 Get Your FreeCurrencyAPI Key:
 
@@ -44,15 +42,11 @@ Sign up at FreeCurrencyAPI and obtain your API key.
 
 Create a .env file in the root directory of the project and add the following line:
 
-bash
-Copy code
 REACT_APP_CURRENCY_API_KEY=your_api_key_here
 Run the App:
 
 Start the development server:
 
-bash
-Copy code
 npm start
 Open http://localhost:3000 to view the app in your browser.
 
