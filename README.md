@@ -66,6 +66,8 @@ Favorite Currencies: Save commonly used currency pairs for easy access.
 Error Handling: If something goes wrong with the API, users will be informed via error messages.
 Dark Mode: Toggle between light and dark mode for a more comfortable viewing experience.
 Screenshots
+![dq7m7j csb app_](https://github.com/user-attachments/assets/d232f734-f208-4e9d-8600-7ec1814cf32b)
+
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -83,8 +85,7 @@ For any questions or feedback, please feel free to contact me:
 
 Email: abin.joseph222@gmail.com
 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/abin-joseph-409226105/)
-vbnet
-Copy code
+
 
 ### How to Use
 
