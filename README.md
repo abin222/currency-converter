@@ -22,10 +22,6 @@ This is a currency converter application built using React. It allows users to c
 - **Chart.js** and **React Chart.js 2** - Used for displaying historical currency trends
 - **Bootstrap** - For styling and responsiveness
 
-## Demo
-
-You can check out the demo of the app here: [Demo Link](#)
-
 ## Installation
 
 Follow these steps to install and run the app locally:
